@@ -1,10 +1,10 @@
 *, *::before, *::after {box-sizing: border-box; user-select: none; text-decoration: none}
 html {scroll-behavior: smooth !important;}
 
-@font-face {font-family: "October Story"; src: url(/da_fonts/OctoberStory.ttf);}
-@font-face {font-family: "Delight Coffee"; src: url(/da_fonts/DelightCoffee.ttf);}
-@font-face {font-family: "Modern Love"; src: url(/da_fonts/ModernLove.ttf);}
-@font-face {font-family: "Raleway SemiBold"; src: url(/da_fonts/Raleway\ SemiBold.ttf);}
+@font-face {font-family: "October Story"; src: url(./da_fonts/OctoberStory.ttf);}
+@font-face {font-family: "Delight Coffee"; src: url(./da_fonts/DelightCoffee.ttf);}
+@font-face {font-family: "Modern Love"; src: url(./da_fonts/ModernLove.ttf);}
+@font-face {font-family: "Raleway SemiBold"; src: url(./da_fonts/Raleway\ SemiBold.ttf);}
 
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - -
 INDEX.HTML
