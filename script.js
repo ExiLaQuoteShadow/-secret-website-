@@ -145,10 +145,7 @@ function btnEnd() {
 					setTimeout(() => {
 						window.scrollBy(0, window.innerHeight);
 						lines[i].innerHTML += introP[i][j];
-						if (i == 2) {
-							k = 2;
-						}
-					}, j * 55 * k);
+					}, j * 55);
 				}
 			}, times[i]);
 		}
