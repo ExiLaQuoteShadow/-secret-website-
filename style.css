@@ -135,7 +135,7 @@ MAIN.HTML
 #introTwo p {
   color: white;
   font-size: 2vh;
-  font-family: "RalewaySemiBold";
+  font-family: "Raleway SemiBold";
 }
 
 #introTwo div {
@@ -197,7 +197,7 @@ MAIN.HTML
 
 .year div:nth-child(1) {
   color: black;
-  font-family: "RalewaySemiBold";
+  font-family: "Raleway SemiBold";
   word-wrap: break-word;
   text-align: center;
   font-size: 0vw;
